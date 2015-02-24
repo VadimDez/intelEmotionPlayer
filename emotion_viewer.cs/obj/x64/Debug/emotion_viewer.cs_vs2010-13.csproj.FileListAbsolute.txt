@@ -1,0 +1,9 @@
+C:\Users\Intel\Desktop\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.exe
+C:\Users\Intel\Desktop\emotion_viewer.cs\bin\x64\Debug\emotion_viewer.cs.pdb
+C:\Users\Intel\Desktop\emotion_viewer.cs\bin\x64\Debug\libpxcclr.cs.dll
+C:\Users\Intel\Desktop\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.MainForm.resources
+C:\Users\Intel\Desktop\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.Properties.Resources.resources
+C:\Users\Intel\Desktop\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs_vs2010-13.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.exe
+C:\Users\Intel\Desktop\emotion_viewer.cs\obj\x64\Debug\emotion_viewer.cs.pdb
